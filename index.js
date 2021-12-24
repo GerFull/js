@@ -27,7 +27,7 @@ const got = new GotSerice();
 
 got.getAllCharacter()
 .then((res) => {
-    res.forEach(element => {
+    res.forEach(element => {asdfasdfadsfasdfasdf
         console.log(element.name)
     });
 });

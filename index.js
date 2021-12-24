@@ -25,9 +25,11 @@ class GotSerice {
 
 const got = new GotSerice();
 
+zczcxcxcz
+
 got.getAllCharacter()
 .then((res) => {
-    res.forEach(element => {asdfasdfadsfasdfasdf
+    res.forEach(element => {
         console.log(element.name)
     });
 });
